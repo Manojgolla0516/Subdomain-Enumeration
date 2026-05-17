@@ -1,0 +1,77 @@
+2026-05-17T21:06:54.419457+0530 INFO Starting enumeration for domain: google.com
+2026-05-17T21:06:54.420231+0530 INFO std: Performing General Enumeration against: google.com...
+2026-05-17T21:06:54.609964+0530 ERROR No answer for DNSSEC query for google.com
+2026-05-17T21:06:54.679189+0530 INFO 	 SOA ns1.google.com 216.239.32.10
+2026-05-17T21:06:54.679471+0530 INFO 	 SOA ns1.google.com 2001:4860:4802:32::a
+2026-05-17T21:06:54.786018+0530 INFO 	 NS ns2.google.com 216.239.34.10
+2026-05-17T21:06:54.930666+0530 INFO 	 NS ns2.google.com 2001:4860:4802:34::a
+2026-05-17T21:06:55.077669+0530 INFO 	 NS ns1.google.com 216.239.32.10
+2026-05-17T21:06:55.272515+0530 INFO 	 NS ns1.google.com 2001:4860:4802:32::a
+2026-05-17T21:06:55.455963+0530 INFO 	 NS ns4.google.com 216.239.38.10
+2026-05-17T21:06:55.633913+0530 INFO 	 NS ns4.google.com 2001:4860:4802:38::a
+2026-05-17T21:06:55.801573+0530 INFO 	 NS ns3.google.com 216.239.36.10
+2026-05-17T21:06:55.994035+0530 INFO 	 NS ns3.google.com 2001:4860:4802:36::a
+2026-05-17T21:06:56.232902+0530 INFO 	 MX smtp.google.com 192.178.211.26
+2026-05-17T21:06:56.234107+0530 INFO 	 MX smtp.google.com 192.178.211.27
+2026-05-17T21:06:56.234349+0530 INFO 	 MX smtp.google.com 2404:6800:4000:1025::1b
+2026-05-17T21:06:56.234476+0530 INFO 	 MX smtp.google.com 2404:6800:4000:1025::1a
+2026-05-17T21:06:56.341388+0530 INFO 	 A google.com 142.250.146.113
+2026-05-17T21:06:56.342207+0530 INFO 	 A google.com 142.250.146.100
+2026-05-17T21:06:56.342379+0530 INFO 	 A google.com 142.250.146.139
+2026-05-17T21:06:56.342475+0530 INFO 	 A google.com 142.250.146.102
+2026-05-17T21:06:56.342553+0530 INFO 	 A google.com 142.250.146.101
+2026-05-17T21:06:56.342634+0530 INFO 	 A google.com 142.250.146.138
+2026-05-17T21:06:56.343295+0530 INFO 	 AAAA google.com 2404:6800:4000:1017::8a
+2026-05-17T21:06:56.343508+0530 INFO 	 AAAA google.com 2404:6800:4000:1017::8b
+2026-05-17T21:06:56.343720+0530 INFO 	 AAAA google.com 2404:6800:4000:1017::71
+2026-05-17T21:06:56.343838+0530 INFO 	 AAAA google.com 2404:6800:4000:1017::65
+2026-05-17T21:06:56.765990+0530 INFO 	 TXT google.com docusign=05958488-4752-4ef2-95eb-aa7ba8a3bd0e
+2026-05-17T21:06:56.766816+0530 INFO 	 TXT google.com onetrust-domain-verification=6d685f1d41a94696ad7ef771f68993e0
+2026-05-17T21:06:56.767048+0530 INFO 	 TXT google.com google-site-verification=wD8N7i1JTNTkezJ49swvWW48f8_9xveREV4oB-0Hf5o
+2026-05-17T21:06:56.767140+0530 INFO 	 TXT google.com MS=E4A68B9AB2BB9670BCE15412F62916164C0B20BB
+2026-05-17T21:06:56.767231+0530 INFO 	 TXT google.com globalsign-smime-dv=CDYX+XFHUw2wml6/Gb8+59BsH31KzUr6c1l2BPvqKX8=
+2026-05-17T21:06:56.767550+0530 INFO 	 TXT google.com v=spf1 include:_spf.google.com ~all
+2026-05-17T21:06:56.767676+0530 INFO 	 TXT google.com facebook-domain-verification=22rm551cu4k0ab0bxsw536tlds4h95
+2026-05-17T21:06:56.767766+0530 INFO 	 TXT google.com cisco-ci-domain-verification=47c38bc8c4b74b7233e9053220c1bbe76bcc1cd33c7acf7acd36cd6a5332004b
+2026-05-17T21:06:56.767864+0530 INFO 	 TXT google.com docusign=1b0a6754-49b1-4db5-8540-d2c12664b289
+2026-05-17T21:06:56.767971+0530 INFO 	 TXT google.com onetrust-domain-verification=0d477fe608074e6f9c12bca7826035cc
+2026-05-17T21:06:56.768062+0530 INFO 	 TXT google.com google-site-verification=TV9-DBe4R80X4v0M4U_bd_J9cpOJM0nikft0jAgjmsQ
+2026-05-17T21:06:56.769901+0530 INFO 	 TXT google.com google-site-verification=4ibFUgB-wXLQ_S7vsXVomSTVamuOXBiVAzpR5IZ87D0
+2026-05-17T21:06:56.770274+0530 INFO 	 TXT google.com apple-domain-verification=30afIBcvSuDV2PLX
+2026-05-17T21:06:56.770410+0530 INFO 	 TXT _dmarc.google.com v=DMARC1; p=reject; rua=mailto:mailauth-reports@google.com
+2026-05-17T21:06:57.034805+0530 INFO Enumerating SRV Records
+2026-05-17T21:06:57.102464+0530 INFO 	 SRV _ldap._tcp.google.com ldap.google.com 216.239.32.58 389
+2026-05-17T21:06:57.102909+0530 INFO 	 SRV _ldap._tcp.google.com ldap.google.com 2001:4860:4802:32::3a 389
+2026-05-17T21:06:58.362328+0530 INFO 	 SRV _caldav._tcp.google.com calendar.google.com 142.250.146.113 80
+2026-05-17T21:06:58.365330+0530 INFO 	 SRV _caldav._tcp.google.com calendar.google.com 142.250.146.102 80
+2026-05-17T21:06:58.365510+0530 INFO 	 SRV _caldav._tcp.google.com calendar.google.com 142.250.146.101 80
+2026-05-17T21:06:58.365642+0530 INFO 	 SRV _caldav._tcp.google.com calendar.google.com 142.250.146.138 80
+2026-05-17T21:06:58.365912+0530 INFO 	 SRV _caldav._tcp.google.com calendar.google.com 142.250.146.100 80
+2026-05-17T21:06:58.366042+0530 INFO 	 SRV _caldav._tcp.google.com calendar.google.com 142.250.146.139 80
+2026-05-17T21:06:58.366153+0530 INFO 	 SRV _caldav._tcp.google.com calendar.google.com 2404:6800:4000:1006::8a 80
+2026-05-17T21:06:58.366389+0530 INFO 	 SRV _caldav._tcp.google.com calendar.google.com 2404:6800:4000:1006::8b 80
+2026-05-17T21:06:58.366662+0530 INFO 	 SRV _caldav._tcp.google.com calendar.google.com 2404:6800:4000:1006::65 80
+2026-05-17T21:06:58.366901+0530 INFO 	 SRV _caldav._tcp.google.com calendar.google.com 2404:6800:4000:1006::66 80
+2026-05-17T21:06:58.367168+0530 INFO 	 SRV _caldavs._tcp.google.com calendar.google.com 142.250.146.139 443
+2026-05-17T21:06:58.367404+0530 INFO 	 SRV _caldavs._tcp.google.com calendar.google.com 142.250.146.113 443
+2026-05-17T21:06:58.367520+0530 INFO 	 SRV _caldavs._tcp.google.com calendar.google.com 142.250.146.102 443
+2026-05-17T21:06:58.368279+0530 INFO 	 SRV _caldavs._tcp.google.com calendar.google.com 142.250.146.101 443
+2026-05-17T21:06:58.368531+0530 INFO 	 SRV _caldavs._tcp.google.com calendar.google.com 142.250.146.138 443
+2026-05-17T21:06:58.368663+0530 INFO 	 SRV _caldavs._tcp.google.com calendar.google.com 142.250.146.100 443
+2026-05-17T21:06:58.368777+0530 INFO 	 SRV _caldavs._tcp.google.com calendar.google.com 2404:6800:4000:1006::66 443
+2026-05-17T21:06:58.368881+0530 INFO 	 SRV _caldavs._tcp.google.com calendar.google.com 2404:6800:4000:1006::8a 443
+2026-05-17T21:06:58.368967+0530 INFO 	 SRV _caldavs._tcp.google.com calendar.google.com 2404:6800:4000:1006::8b 443
+2026-05-17T21:06:58.369053+0530 INFO 	 SRV _caldavs._tcp.google.com calendar.google.com 2404:6800:4000:1006::65 443
+2026-05-17T21:06:58.430765+0530 INFO 	 SRV _carddavs._tcp.google.com google.com 142.250.146.138 443
+2026-05-17T21:06:58.431071+0530 INFO 	 SRV _carddavs._tcp.google.com google.com 142.250.146.101 443
+2026-05-17T21:06:58.431155+0530 INFO 	 SRV _carddavs._tcp.google.com google.com 142.250.146.102 443
+2026-05-17T21:06:58.431218+0530 INFO 	 SRV _carddavs._tcp.google.com google.com 142.250.146.139 443
+2026-05-17T21:06:58.431267+0530 INFO 	 SRV _carddavs._tcp.google.com google.com 142.250.146.100 443
+2026-05-17T21:06:58.431312+0530 INFO 	 SRV _carddavs._tcp.google.com google.com 142.250.146.113 443
+2026-05-17T21:06:58.431355+0530 INFO 	 SRV _carddavs._tcp.google.com google.com 2404:6800:4000:1017::65 443
+2026-05-17T21:06:58.431564+0530 INFO 	 SRV _carddavs._tcp.google.com google.com 2404:6800:4000:1017::71 443
+2026-05-17T21:06:58.431640+0530 INFO 	 SRV _carddavs._tcp.google.com google.com 2404:6800:4000:1017::8b 443
+2026-05-17T21:06:58.431695+0530 INFO 	 SRV _carddavs._tcp.google.com google.com 2404:6800:4000:1017::8a 443
+2026-05-17T21:06:58.522685+0530 INFO 32 Records Found
+2026-05-17T21:06:58.523290+0530 INFO Completed enumeration for domain: google.com
+
