@@ -180,7 +180,7 @@ subdomain-enumerator/
 ## Environment
 
 - OS: Kali Linux (VirtualBox)
-- Tools: Sublist3r, Gobuster v3.8.2, DNSRecon v1.3.1, Amass v5.1.1
+- Tools: Sublist3r, Gobuster, DNSRecon, Amass .
 - Target: google.com (public domain)
 
 ---
