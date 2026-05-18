@@ -109,7 +109,7 @@ amass enum -d google.com | tee amass_results.txt
 - Used certificate transparency logs and passive DNS
 
 ### Screenshot
-![Amass Results](screenshots/amass.png)
+![Amass Results](screenshots/amass_new.png)
 
 ---
 
